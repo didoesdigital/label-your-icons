@@ -24,7 +24,7 @@ module.exports = {
         background_color: `#FF5858`,
         theme_color: `#FF5858`,
         display: `standalone`,
-        icon: `src/images/icons/lyi-logo-square.svg`, // This path is relative to the root of the site.
+        icon: `src/images/lyi-logo-square.svg`, // This path is relative to the root of the site.
         icons: [
           {"src": "src/images/icons/android-chrome-192x192.png","sizes": "192x192","type": "image/png"},
           {"src": "src/images/icons/android-chrome-512x512.png","sizes": "512x512","type": "image/png"}
