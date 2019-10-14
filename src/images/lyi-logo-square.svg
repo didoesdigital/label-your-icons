@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="170px" height="170px" viewBox="0 0 170 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
-    <title>LYI logo/lyi-logo-square</title>
-    <desc>Created with Sketch.</desc>
-    <g id="LYI-logo/lyi-logo-square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#FFF4F4" x="0" y="0" width="170" height="170"></rect>
-        <text id="L" font-family="Inter-ExtraBold, Inter" font-size="60" font-weight="600" fill="#FF5858">
-            <tspan x="28.4225852" y="107">L</tspan>
-        </text>
-        <text id="Y" font-family="Inter-ExtraBold, Inter" font-size="60" font-weight="600" fill="#FF5858">
-            <tspan x="67.1704545" y="107">Y</tspan>
-        </text>
-        <text id="I" font-family="Inter-ExtraBold, Inter" font-size="60" font-weight="600" fill="#FF5858">
-            <tspan x="124.424006" y="107">I</tspan>
-        </text>
-    </g>
-</svg>
+<svg width="170" height="170" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#FFF4F4" d="M0 0h170v170H0z"/><path fill="#FF5858" fill-rule="nonzero" d="M31.725142 107V63.363636h10.546875V98.43466h18.15341V107zM68.299716 63.363636h11.78267L89.30824 81.62358h.383522l9.225853-18.259944h11.78267l-15.958807 29.0625V107H84.258523V92.426136zM138.273438 63.363636V107h-10.546876V63.363636z"/></g></svg>
