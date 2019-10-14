@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://labelyouricons.com">
-    <img alt="Gatsby" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGZpbGw9IiNGRkY0RjQiIGQ9Ik0wIDBoMTcwdjE3MEgweiIvPjxwYXRoIGZpbGw9IiNGRjU4NTgiIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTMxLjcyNTE0MiAxMDdWNjMuMzYzNjM2aDEwLjU0Njg3NVY5OC40MzQ2NmgxOC4xNTM0MVYxMDd6TTY4LjI5OTcxNiA2My4zNjM2MzZoMTEuNzgyNjdMODkuMzA4MjQgODEuNjIzNThoLjM4MzUyMmw5LjIyNTg1My0xOC4yNTk5NDRoMTEuNzgyNjdsLTE1Ljk1ODgwNyAyOS4wNjI1VjEwN0g4NC4yNTg1MjNWOTIuNDI2MTM2ek0xMzguMjczNDM4IDYzLjM2MzYzNlYxMDdoLTEwLjU0Njg3NlY2My4zNjM2MzZ6Ii8+PC9nPjwvc3ZnPgo=" width="60" />
-  </a>
-</p>
 <h1 align="center">
   Label Your Icons
 </h1>
