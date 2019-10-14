@@ -70,7 +70,7 @@ const IndexPage = () => (
           </div>
           <div>
             <h3>Actions</h3>
-            <p>A common source of icons without labels. <a href="https://www.nngroup.com/articles/icon-usability/">Learn more about designing for icon usability</a>.</p>
+            <p>You can often see icons without labels for inline editing actions. <a href="https://www.nngroup.com/articles/icon-usability/">Learn more about designing for icon usability</a>.</p>
           </div>
         </div>
       </div>
