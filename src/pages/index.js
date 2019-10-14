@@ -142,7 +142,7 @@ const IndexPage = () => (
     <div className="landing-page-section">
       <div className="mx-auto mw-1024 p3">
         <h2>Icons with labels</h2>
-        <p className="lede">When you add a text label to an icon, you immediately makes the interface more understandable and less bewildering to new users.</p>
+        <p className="lede">When you add a text label to an icon, you immediately make the interface more understandable and less bewildering to new users.</p>
         <p>If you really must have an icon button without a label, show a tooltip on hover and focus (for people using touch devices, keyboards, or screen readers).</p>
       </div>
     </div>

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Label Your Icons`,
-    description: `Icons establish visual language and create visual interest. A label is a classifying name that adds clarity and aids navigation. When you add a text label to an icon, you immediately makes the interface more understandable and less bewildering to new users. Make the world a clearer place.`,
+    description: `Icons establish visual language and create visual interest. A label is a classifying name that adds clarity and aids navigation. When you add a text label to an icon, you immediately make the interface more understandable and less bewildering to new users. Make the world a clearer place.`,
     author: `@didoesdigital`,
   },
   plugins: [
