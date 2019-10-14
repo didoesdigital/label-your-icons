@@ -742,7 +742,7 @@ pre tt:after {
 }
 .media-object .media-object__media {
   margin: 0 2.45rem 1rem 0;
-  min-width: 200px;
+  min-width: 240px;
 }
 .media-object > div {
   flex: 1;
