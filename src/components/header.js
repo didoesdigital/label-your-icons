@@ -1,4 +1,5 @@
 import { Link } from "gatsby"
+import logo from "../images/lyi-logo-circle.svg"
 import PropTypes from "prop-types"
 import React from "react"
 
@@ -9,7 +10,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
-    <div
+    <nav
       style={{
         margin: `0 auto`,
         maxWidth: 960,
@@ -24,10 +25,13 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          <div style={{ maxWidth: `650px`, display: `flex`, alignItems: `center`, marginLeft: `-0.25rem` }}>
+            <img src={logo} alt="Label Your Icons home" style={{ maxWidth: `60px`, marginBottom: `0`, marginRight: `1rem` }} />
+            {siteTitle}
+          </div>
         </Link>
       </h1>
-    </div>
+    </nav>
   </header>
 )
 
