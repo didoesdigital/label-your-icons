@@ -683,3 +683,23 @@ pre tt:after {
   font-size: 1.62671rem;
   line-height: 1.6;
 }
+.nowrap {
+  white-space: nowrap;
+}
+.svg-icon-wrapper {
+  display: inline-flex;
+  align-self: center;
+  position: relative;
+  height: 1em;
+  width: 1em;
+}
+.svg-icon-wrapper svg {
+  height:1em;
+  width:1em;
+  fill: currentColor;
+}
+.svg-icon-wrapper.svg-baseline svg {
+  bottom: -0.125em;
+  position: absolute;
+}
+
