@@ -29,6 +29,7 @@ const Layout = ({ children }) => {
       <main>{children}</main>
       <footer className="bg-daintree reversed landing-page-section">
         <div className="mx-auto mw-1024 p3">
+          <p><small>This site uses Google Analytics to track usage data for improving the site using cookies. Label Your Icons anonymises IP addresses before sending them to Google and Google Analytics retains cookie data for 26 months.</small></p>
           <p>
             © {new Date().getFullYear()} Diana MacDonald.
           </p>
