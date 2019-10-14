@@ -109,7 +109,7 @@ const IndexPage = () => (
           <img src={AvatarJack} alt="Jack’s avatar. " className="media-object__media" style={{ maxWidth: `180px`, paddingLeft: `8px` }} />
           <div>
             <blockquote className="quote">
-              <p>Interacting with modern software involves poring over <strong>inscrutable hieroglyphs</strong> trying to find the one button that might do what you want. This button may be buried in one of many settings menus (which "cog" button is it?), or stuffed into a drawer behind a hamburger button that looks like nothing at all. And you won't find out if it's the right thing until you try.</p>
+              <p>Interacting with modern software involves poring over <strong>inscrutable hieroglyphs</strong> trying to find the one button that might do what you want. This button may be <strong>buried in a settings menu</strong> (which "cog" button is it?), or stuffed into a drawer behind a hamburger button that looks like <strong>nothing</strong> at all. And you won't find out if it's the right thing until you try.</p>
             </blockquote>
             <p>—Jack, developer and speaker</p>
           </div>
