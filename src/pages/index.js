@@ -125,7 +125,7 @@ const IndexPage = () => (
 
     <div className="landing-page-section">
       <div className="mx-auto mw-1024 p3">
-        <h2>Icons</h2>
+        <h2>Use meaningful icons</h2>
         <p className="lede">Icons establish visual language and create visual interest.</p>
         <p>Use icons with physical resemblance to signified objects. Reserve outline icons for actionable icon buttons.</p>
       </div>
@@ -133,7 +133,7 @@ const IndexPage = () => (
 
     <div className="landing-page-section bg-porcelain">
       <div className="mx-auto mw-1024 p3">
-        <h2>Labels</h2>
+        <h2>Write informative labels</h2>
         <p className="lede">A label is a classifying name that adds clarity and aids navigation.</p>
         <p>Write labels that identify objects. Use plain language. Test the readability score of your labels. Use consistent naming conventions. Use the same label for an icon every time.</p>
       </div>
@@ -141,7 +141,7 @@ const IndexPage = () => (
 
     <div className="landing-page-section">
       <div className="mx-auto mw-1024 p3">
-        <h2>Icons with labels</h2>
+        <h2>Label your icons</h2>
         <p className="lede">When you add a text label to an icon, you immediately make the interface more understandable and less bewildering to new users.</p>
         <p>If you really must have an icon button without a label, show a tooltip on hover and focus (for people using touch devices, keyboards, or screen readers).</p>
       </div>
