@@ -20,7 +20,7 @@ Installation:
 
 Usage:
 
-- Run `gatsby develop` to build and watch the project then open <http://localhost:8000/> to see it locally.
+- Run `yarn develop` to build and watch the project then open <http://localhost:8000/> to see it locally.
 
 See the [Gatsby Default Starter docs](./docs/gatsby-starter-docs.md) for more details.
 
