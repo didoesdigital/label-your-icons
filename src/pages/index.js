@@ -85,7 +85,7 @@ const IndexPage = () => (
           </div>
           <div>
             <h3>Mystery meat navigation</h3>
-            <p>“<strong>Mystery meat navigation</strong>” describes links that do not have a clear destination. You need to hover over the link to uncover the its destination or follow it with wild abandon. Like mystery meat—processed meats with unidentified sources—mystery meat navigation is clear to the creator but not to the consumer.</p>
+            <p>“<strong>Mystery meat navigation</strong>” describes links that do not have a clear destination. You need to hover over the link to uncover its destination or follow it with wild abandon. Like mystery meat—processed meats with unidentified sources—mystery meat navigation is clear to the creator but not to the consumer.</p>
             <p>Icons are not the only kind of mystery meat navigation. Poor link text also confuses readers.</p>
           </div>
         </div>
