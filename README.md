@@ -24,6 +24,11 @@ Usage:
 
 See the [Gatsby Default Starter docs](./docs/gatsby-starter-docs.md) for more details.
 
+Deployment:
+
+- The Node version for deployment is set in [Netlify's Environment Variables](https://docs.netlify.com/configure-builds/manage-dependencies/#node-js-and-javascript) setting section.
+- Create a Pull Request to automatically create a [branch deploy](https://app.netlify.com/sites/labelyouricons/deploys). Merge the PR to automatically deploy the site.
+
 
 
 # Contributing
