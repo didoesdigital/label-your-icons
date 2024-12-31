@@ -263,6 +263,7 @@ p *:last-child {
   padding: 0.5rem;
   border: 1px solid #d1dcdc;
   background-color: #fff;
+  line-height: 2.5;
 }
 
 .figure__caption {
